@@ -13,3 +13,6 @@
 
 ### Problems and Bugs:
 > If you have any bugs or problems with the app, I will **NOT** provide support for it.
+
+### Preview:
+![Highphone Radio](https://user-images.githubusercontent.com/81863846/217989092-215ecfde-8b23-4b42-b058-43d976636d4c.jpg)
