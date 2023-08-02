@@ -12,7 +12,6 @@
 }
 
 /* TITLE */
-
 .radio > .header > .box1 {
     position: absolute;
     top: -7%;
@@ -50,7 +49,6 @@
     
     z-index: 3;
 }
-
 
 /* ----------- */
 /* RADIO PANEL */
@@ -140,7 +138,6 @@ input::-webkit-inner-spin-button {
     background-color: #4681da;
 }
 
-/* mygtukų stiliai */
 .radio .fill {
     border: 0;
     color: white;
